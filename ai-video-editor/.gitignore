@@ -1,0 +1,12 @@
+# Media is large — keep it local, commit only the setup.
+Raw Footage/*
+Reference/*
+Export/*
+!*/.gitkeep
+projects/
+node_modules/
+*.mp4
+*.mov
+*.webm
+*.m4a
+*.wav
