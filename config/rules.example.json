@@ -1,0 +1,18 @@
+{
+  "hourly_dm_cap": 180,
+  "rules": [
+    {
+      "keywords": ["ROADMAP"],
+      "link": "https://example.com/sap-roadmap-2026.pdf",
+      "dm": "Hey {username}! Here's the SAP Roadmap 2026 PDF 👉 {link}\n\nI share real SAP project scenarios + interview questions every week. Follow @techchamps_by.rev so you don't miss the next one 🙌",
+      "public_replies": ["Sent! Check your DMs 📩", "Done ✅ check your inbox", "DM'd you 🚀"]
+    },
+    {
+      "keywords": ["SAP", "PDF"],
+      "media_ids": ["REPLACE_WITH_MEDIA_ID"],
+      "link": "https://example.com/s4hana-real-world-projects.pdf",
+      "dm": "Here's the S/4HANA Real-World Projects guide 👉 {link}\n\nPart 2 (interview scenarios per module) drops this week — follow so it shows up in your feed!",
+      "public_replies": ["Sent 📩"]
+    }
+  ]
+}
